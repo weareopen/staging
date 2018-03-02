@@ -1,9 +1,10 @@
---- 
+---
 author: "We Are Open Coop"
 description: "We work to spread the culture, processes and benefits of open wherever we can."
 email: admin@weareopen.coop
 github_username: laurahilliger
-sass: 
+sass:
   style: compressed
 title: "We Are Open Co-operative"
 twitter_username: weareopencoop
+baseurl: http://weareopen.coop/staging/
