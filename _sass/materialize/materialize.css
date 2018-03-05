@@ -5930,9 +5930,9 @@ input[type=range]:focus::-ms-fill-upper {
       width: 100%; }
   .carousel .indicators {
     position: absolute;
-    text-align: center;
+    text-align: right;
     left: 0;
-    right: 0;
+    right: 1%;
     bottom: 0;
     margin: 0; }
     .carousel .indicators .indicator-item {

@@ -4,30 +4,87 @@ title: client stories
 permalink: /clients/
 ---
 
-<h1 class="page-title">{{ page.title | escape }}</h1>
-
 <div class="section">
-    <div class="row">
-          <div class="carousel carousel-slider center" data-indicators="true" data-namespace="DIVcarouselcarousel-slider1" style="height: 400px;">
-          <div class="carousel-fixed-item center with-indicators">
-            <a class="btn waves-effect white grey-text darken-text-2">button</a>
-          </div>
-          <div class="carousel-item red white-text active" href="#one!" style="z-index: 0; opacity: 1; display: block; transform: translateX(0px) translateX(0px) translateX(0px) translateZ(0px);">
-            <h2>First Panel</h2>
-            <p class="white-text">This is your first panel</p>
-          </div>
-          <div class="carousel-item amber white-text" href="#two!" style="transform: translateX(0px) translateX(953.906px) translateZ(0px); z-index: -1; opacity: 1; display: block;">
-            <h2>Second Panel</h2>
-            <p class="white-text">This is your second panel</p>
-          </div>
-          <div class="carousel-item green white-text" href="#three!" style="transform: translateX(0px) translateX(-1907.81px) translateZ(0px); z-index: -2; opacity: 1; display: block;">
-            <h2>Third Panel</h2>
-            <p class="white-text">This is your third panel</p>
-          </div>
-          <div class="carousel-item blue white-text" href="#four!" style="transform: translateX(0px) translateX(-953.906px) translateZ(0px); z-index: -1; opacity: 1; display: block;">
-            <h2>Fourth Panel</h2>
-            <p class="white-text">This is your fourth panel</p>
-          </div>
-        <ul class="indicators"><li class="indicator-item active"></li><li class="indicator-item"></li><li class="indicator-item"></li><li class="indicator-item"></li></ul></div>
-    </div>
+        <h1 class="page-title">Meet our clients</h1>
+
+        <div class="row">
+            <div class="col s12 m4 l4">
+                <p class="entry-text">Our members have worked with the BBC, Mozilla, Greenpeace, Moodle, Creative Commons and tens of other household names. As a co-op, our clients benefit from the multitude of skills and expertise our members possess.</p>
+            </div>
+
+            <div class="col s12 m4 l8"><img class="responsive-img" src="/assets/images/this-production.png" alt="this production brought to you by the We Are Open Co-op"></div>
+        </div>
+
+        <div class="section">
+            <div class="row">
+                <div class="carousel carousel-slider" data-indicators="true" data-namespace="DIVcarouselcarousel-slider1" style="height: 650px;">
+				<!-- <div class="carousel-fixed-item right-align with-indicators" style="margin-right:1%;">
+                        <a class="btn waves-effect white grey-text darken-text-2">next slide</a>
+                </div>-->
+                    <div class="carousel-item blue-grey white-text active" href="#one!" style="z-index: 0; opacity: 1; display: block; transform: translateX(0px) translateX(0px) translateX(0px) translateZ(0px);">
+                        <h2 class="center">Creative Commons</h2>
+
+                        <div class="col s12 m4 l7">
+                            <h5>The Think-a-thon</h5>
+
+                            <p>In the early days of the Creative Commons Certificate program, we met with the team to run a think-a-thon.</p>
+	                            <ul>
+		                            <li>Micro-credentialing expertise</li>
+		                            <li>Identity expertise</li>
+		                            <li>Community management expertise</li>
+		                            <li>Strategic advice</li>
+		                            <li>Artwork</li>
+	                            </ul>
+							
+                        </div>
+
+                        <div class="col s12 m4 l5"><img class="responsive-img" src="/assets/images/facilitate-thinking.svg" alt="facilitate thinking"></div>
+                    </div>
+
+                    <div class="carousel-item blue-grey white-text" href="#two!" style="transform: translateX(0px) translateX(953.906px) translateZ(0px); z-index: -1; opacity: 1; display: block;">
+                       <h2 class="center">Creative Commons</h2>
+
+                        <div class="col s12 m4 l7">
+                            <h5>The Think-a-thon</h5>
+
+                            <p>In the early days of the Creative Commons Certificate program, we met with the team to run a think-a-thon.</p>
+	                            <ul>
+		                            <li>Micro-credentialing expertise</li>
+		                            <li>Identity expertise</li>
+		                            <li>Community management expertise</li>
+		                            <li>Strategic advice</li>
+		                            <li>Artwork</li>
+	                            </ul>
+							
+                        </div>
+
+                        <div class="col s12 m4 l5"><img class="responsive-img" src="/assets/images/articulate-concepts.svg" alt="articulate concepts"></div>
+                    </div>
+
+                    <div class="carousel-item blue-grey white-text" href="#three!" style="transform: translateX(0px) translateX(-1907.81px) translateZ(0px); z-index: -2; opacity: 1; display: block;">
+                        <h2 class="center">Creative Commons</h2>
+
+                        <div class="col s12 m4 l7">
+                            <h5>The Think-a-thon</h5>
+
+                            <p>In the early days of the Creative Commons Certificate program, we met with the team to run a think-a-thon.</p>
+	                            <ul>
+		                            <li>Micro-credentialing expertise</li>
+		                            <li>Identity expertise</li>
+		                            <li>Community management expertise</li>
+		                            <li>Strategic advice</li>
+		                            <li>Artwork</li>
+	                            </ul>
+							
+                        </div>
+                        <div class="col s12 m4 l5"><img class="responsive-img" src="/assets/images/provide-expertise.svg" alt="provide expertise"></div>
+                    </div>
+                </div>
+
+                <ul class="indicators"></ul>
+               
+            </div>
+        </div>
 </div>
+
+<div class="divider"></div>

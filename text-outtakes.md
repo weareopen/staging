@@ -3,3 +3,4 @@ articulate Our members have spoken on stages with lasers, been introduced by tha
 expertise  The thing we all have in common? We believe in working openly and the power of collaboration. We are experts in media and education, narrative, communication, group dynamics, cultural shifts...Most importantly, we know what we're NOT experts in and can advise you where to find experts in those things too. 
 
 thinking Don't underestimate the power of facilitated thinking. Take a mere sliver of an idea, and ask it questions. Stand in another person's shoes and see how it looks. You'll be surprised at the clarity that this can produce.
+

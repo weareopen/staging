@@ -1,5 +1,13 @@
 @charset "utf-8";
 
+.entry-text{
+	font-size: 1.4rem;
+	line-height: 150%;
+	margin: .5rem 0 .4rem 0;
+	color: #888;
+	font-weight: 300;
+}
+
 .locks {
 	background-image: url(../assets/images/locks-pattern.png);
 	background-repeat: repeat;
