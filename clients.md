@@ -2,18 +2,11 @@
 layout: page
 title: client stories
 permalink: /clients/
+heading: Meet our clients
+intro-text: Our members have worked with the BBC, Mozilla, Greenpeace, Moodle, Creative Commons and tens of other household names. As a co-op, our clients benefit from the multitude of skills and expertise our members possess.
+intro-image: {{ "/" | relative_url}}assets/images/this-production.png
 ---
 
-<div class="section">
-        <h1 class="page-title">Meet our clients</h1>
-
-        <div class="row">
-            <div class="col s12 m4 l4">
-                <p class="entry-text">Our members have worked with the BBC, Mozilla, Greenpeace, Moodle, Creative Commons and tens of other household names. As a co-op, our clients benefit from the multitude of skills and expertise our members possess.</p>
-            </div>
-
-            <div class="col s12 m4 l8"><img class="responsive-img" src="/assets/images/this-production.png" alt="this production brought to you by the We Are Open Co-op"></div>
-        </div>
 
         <div class="section">
             <div class="row">
@@ -38,7 +31,7 @@ permalink: /clients/
 							
                         </div>
 
-                        <div class="col s12 m4 l5"><img class="responsive-img" src="/assets/images/facilitate-thinking.svg" alt="facilitate thinking"></div>
+                        <div class="col s12 m4 l5"><img class="responsive-img" src="../assets/images/facilitate-thinking.svg" alt="facilitate thinking"></div>
                     </div>
 
                     <div class="carousel-item blue-grey white-text" href="#two!" style="transform: translateX(0px) translateX(953.906px) translateZ(0px); z-index: -1; opacity: 1; display: block;">
@@ -58,7 +51,7 @@ permalink: /clients/
 							
                         </div>
 
-                        <div class="col s12 m4 l5"><img class="responsive-img" src="/assets/images/articulate-concepts.svg" alt="articulate concepts"></div>
+                        <div class="col s12 m4 l5"><img class="responsive-img" src="../assets/images/articulate-concepts.svg" alt="articulate concepts"></div>
                     </div>
 
                     <div class="carousel-item blue-grey white-text" href="#three!" style="transform: translateX(0px) translateX(-1907.81px) translateZ(0px); z-index: -2; opacity: 1; display: block;">
@@ -77,7 +70,7 @@ permalink: /clients/
 	                            </ul>
 							
                         </div>
-                        <div class="col s12 m4 l5"><img class="responsive-img" src="/assets/images/provide-expertise.svg" alt="provide expertise"></div>
+                        <div class="col s12 m4 l5"><img class="responsive-img" src="../assets/images/provide-expertise.svg" alt="provide expertise"></div>
                     </div>
                 </div>
 

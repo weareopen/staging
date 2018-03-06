@@ -2,21 +2,16 @@
 layout: page
 title: what we do
 permalink: /what/
+heading: Open our umbrella
+intro-text: Our members are nimble thinkers and tinkerers who can do a whole bunch of stuff. Just ask us. However, just so that <em>we</em> can understand what we do, we've organised our "what" into three main areas.
+intro-image: {{ "/" | relative_url }}assets/images/umbrella-intro.png
+image-alt: Facilitate thinking, articulate concepts, provide expertise
 ---
+
 <div class="section">
-        <h1 class="page-title">Open our umbrella</h1>
-
-        <div class="row">
-            <div class="col s12 m4 l4">
-                <p class="entry-text">Our members are nimble thinkers and tinkerers who can do a whole bunch of stuff. Just ask us. However, just so that <em>we</em> can understand what we do, we've organised our "what" into three main areas.</p>
-            </div>
-
-            <div class="col s12 m4 l8"><img class="responsive-img" src="/assets/images/umbrella-intro.png" alt="umbrella-intro"></div>
-        </div>
-
-        <div class="section">
             <div class="row">
                 <div class="carousel carousel-slider" data-indicators="true" data-namespace="DIVcarouselcarousel-slider1" style="height: 650px;">
+                
                     <div class="carousel-item blue-grey white-text active" href="#one!" style="z-index: 0; opacity: 1; display: block; transform: translateX(0px) translateX(0px) translateX(0px) translateZ(0px);">
                         <h2 class="center">We facilitate thinking in a bunch of different ways.</h2>
 
@@ -38,7 +33,7 @@ permalink: /what/
                             <p>We'll take an issue and build a prototype to test with a handful of customers. All in one week. Yep, you heard me right - one week.</p>
                         </div>
 
-                        <div class="col s12 m4 l5"><img class="responsive-img" src="/assets/images/facilitate-thinking.svg" alt="facilitate thinking"></div>
+                        <div class="col s12 m4 l5"><img class="responsive-img" src="{{ "/" | relative_url }}assets/images/facilitate-thinking.svg" alt="facilitate thinking"></div>
                     </div>
 
                     <div class="carousel-item blue-grey white-text" href="#two!" style="transform: translateX(0px) translateX(953.906px) translateZ(0px); z-index: -1; opacity: 1; display: block;">
@@ -62,7 +57,7 @@ permalink: /what/
                             <p>We put words on the page. We write articles and blogposts for our audiences, ourselves and our clients. We also write novels, weeknotes, non-fiction books, academic papers, neighborhood watch guidelines, treaties and functional specs.</p>
                         </div>
 
-                        <div class="col s12 m4 l5"><img class="responsive-img" src="/assets/images/articulate-concepts.svg" alt="articulate concepts"></div>
+                        <div class="col s12 m4 l5"><img class="responsive-img" src="{{ "/" | relative_url }}assets/images/articulate-concepts.svg" alt="articulate concepts"></div>
                     </div>
 
                     <div class="carousel-item blue-grey white-text" href="#three!" style="transform: translateX(0px) translateX(-1907.81px) translateZ(0px); z-index: -2; opacity: 1; display: block;">
@@ -87,14 +82,11 @@ permalink: /what/
 
                         </div>
 
-                        <div class="col s12 m4 l5"><img class="responsive-img" src="/assets/images/provide-expertise.svg" alt="provide expertise"></div>
+                        <div class="col s12 m4 l5"><img class="responsive-img" src="{{ "/" | relative_url }}assets/images/provide-expertise.svg" alt="provide expertise"></div>
                     </div>
-                </div>
+                 </div>
 
                 <ul class="indicators"></ul>
-               
             </div>
         </div>
-</div>
-
-<div class="divider"></div>
+    <div class="divider"></div>

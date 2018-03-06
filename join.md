@@ -1,22 +1,18 @@
-<!DOCTYPE html>
+---
+layout: page
+title: what we do
+permalink: /what/
+---
 
-<html>
-<head>
-    <title></title>
-</head>
-
-<body>
-    --- layout: page title: client stories permalink: /clients/ ---
-
-    <div class="section">
-        <h1 class="page-title">{{ page.heading }}</h1>
+<div class="section">
+        <h1 class="page-title">Open our umbrella</h1>
 
         <div class="row">
             <div class="col s12 m4 l4">
-                <p class="entry-text">{{ page.intro-text }}</p>
+                <p class="entry-text">Our members are nimble thinkers and tinkerers who can do a whole bunch of stuff. Just ask us. However, just so that <em>we</em> can understand what we do, we've organised our "what" into three main areas.</p>
             </div>
 
-            <div class="col s12 m4 l8"><img class="responsive-img" src="{{ page.intro-image }}" alt="{{ page.image-alt }}"></div>
+            <div class="col s12 m4 l8"><img class="responsive-img" src="{{ "/" | relative_url }}assets/images/umbrella-intro.png" alt="umbrella-intro"></div>
         </div>
 
         <div class="section">
@@ -43,7 +39,7 @@
                             <p>We'll take an issue and build a prototype to test with a handful of customers. All in one week. Yep, you heard me right - one week.</p>
                         </div>
 
-                        <div class="col s12 m4 l5"><img class="responsive-img" src="{{ " relative_url="" alt="facilitate thinking"></div>
+                        <div class="col s12 m4 l5"><img class="responsive-img" src="{{ "/" | relative_url }}assets/images/facilitate-thinking.svg" alt="facilitate thinking"></div>
                     </div>
 
                     <div class="carousel-item blue-grey white-text" href="#two!" style="transform: translateX(0px) translateX(953.906px) translateZ(0px); z-index: -1; opacity: 1; display: block;">
@@ -67,7 +63,7 @@
                             <p>We put words on the page. We write articles and blogposts for our audiences, ourselves and our clients. We also write novels, weeknotes, non-fiction books, academic papers, neighborhood watch guidelines, treaties and functional specs.</p>
                         </div>
 
-                        <div class="col s12 m4 l5"><img class="responsive-img" src="{{ " relative_url="" alt="articulate concepts"></div>
+                        <div class="col s12 m4 l5"><img class="responsive-img" src="{{ "/" | relative_url }}assets/images/articulate-concepts.svg" alt="articulate concepts"></div>
                     </div>
 
                     <div class="carousel-item blue-grey white-text" href="#three!" style="transform: translateX(0px) translateX(-1907.81px) translateZ(0px); z-index: -2; opacity: 1; display: block;">
@@ -89,21 +85,17 @@
                             <h5>Community and Storytelling</h5>
 
                             <p>Building global communities in a digital environment can be a complicated endeavor. We know a multitude of strategies for kicking off a community and to help keep it healthy. We're experienced with defining audiences and using data insights to build and tell great stories.</p>
+
                         </div>
 
-                        <div class="col s12 m4 l5"><img class="responsive-img" src="{{ " relative_url="" alt="provide expertise"></div>
+                        <div class="col s12 m4 l5"><img class="responsive-img" src="{{ "/" | relative_url }}assets/images/provide-expertise.svg" alt="provide expertise"></div>
                     </div>
+                </div>
+
+                <ul class="indicators"></ul>
                
-               
-                 <div class="section">
-        	<h1 class="page-title">{{ page.heading }}</h1>
-	        <div class="row">
-	            <div class="col s12 m4 l4">
-	                <p class="entry-text">{{ page.intro-text }}</p>
-	            </div>
-	
-	            <div class="col s12 m4 l8">
-		            <img class="responsive-img" src="{{ page.intro-image }}" alt="{{ page.image-alt }}">
-		        </div>
-	        </div>
-	    </div>
+            </div>
+        </div>
+</div>
+
+<div class="divider"></div>

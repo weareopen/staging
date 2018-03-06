@@ -1,8 +1,23 @@
 ---
 layout: default
 ---
+
 <div class="container">
-
-    {{ content }}
-
+	    <div class="section">
+        	<h1 class="page-title">{{ page.heading }}</h1>
+	        <div class="row">
+	            <div class="col s12 m4 l4">
+	                <p class="entry-text">{{ page.intro-text }}</p>
+	            </div>
+	
+	            <div class="col s12 m4 l8">
+		            <img class="responsive-img" src="{{ page.intro-image }}" alt="{{ page.image-alt }}">
+		        </div>
+	        </div>
+	    </div>
+        
+	                
+	             {{ content }}
+	             
+	             
 </div>
