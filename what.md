@@ -4,8 +4,7 @@ title: what we do
 permalink: /what/
 heading: Open our umbrella
 intro-text: Our members are nimble thinkers and tinkerers who can do a whole bunch of stuff. Just ask us. However, just so that <em>we</em> can understand what we do, we've organised our "what" into three main areas.
-intro-image: {{ "/" | relative_url }}assets/images/umbrella-intro.png
-image-alt: Facilitate thinking, articulate concepts, provide expertise
+img: umbrella-intro.png
 ---
 
 <div class="section">
@@ -89,4 +88,4 @@ image-alt: Facilitate thinking, articulate concepts, provide expertise
                 <ul class="indicators"></ul>
             </div>
         </div>
-    <div class="divider"></div>
+<div class="divider"></div>

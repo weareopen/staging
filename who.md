@@ -2,6 +2,9 @@
 layout: page
 title: who we are
 permalink: /who/
+heading: We <3 our members
+intro-text: Our members are nimble thinkers and tinkerers who can do a whole bunch of stuff. Just ask us. However, just so that <em>we</em> can understand what we do, we've organised our "what" into three main areas.
+img: members.png
 ---
 
 <h1 class="page-title">{{ page.title | escape }}</h1>

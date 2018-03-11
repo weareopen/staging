@@ -1,11 +1,11 @@
 ---
-layout: page
-title: what we do
-permalink: /what/
+layout: innerpage
+inner_title: join the co-op
+permalink: /join/
 ---
 
 <div class="section">
-        <h1 class="page-title">Open our umbrella</h1>
+        <h1 class="page-title">Eat mr umbrella</h1>
 
         <div class="row">
             <div class="col s12 m4 l4">

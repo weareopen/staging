@@ -4,12 +4,12 @@ title: client stories
 permalink: /clients/
 heading: Meet our clients
 intro-text: Our members have worked with the BBC, Mozilla, Greenpeace, Moodle, Creative Commons and tens of other household names. As a co-op, our clients benefit from the multitude of skills and expertise our members possess.
-intro-image: {{ "/" | relative_url}}assets/images/this-production.png
+img: this-production.png
+
 ---
 
-
-        <div class="section">
-            <div class="row">
+<div class="section">
+        <div class="row">
                 <div class="carousel carousel-slider" data-indicators="true" data-namespace="DIVcarouselcarousel-slider1" style="height: 650px;">
 				<!-- <div class="carousel-fixed-item right-align with-indicators" style="margin-right:1%;">
                         <a class="btn waves-effect white grey-text darken-text-2">next slide</a>
