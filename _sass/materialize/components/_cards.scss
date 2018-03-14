@@ -7,7 +7,7 @@
   border-radius: 10px;
   @extend .z-depth-1;
   background-color: $card-bg-color;
-  text-align:center;
+  text-align:left;
 }
 
 .card {
@@ -85,6 +85,7 @@
         border-radius: 2px 0 0 2px;
         max-width: 100%;
         width: auto;
+        float:left;
       }
     }
 
