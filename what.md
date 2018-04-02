@@ -11,7 +11,7 @@ img: umbrella-intro.png
             <div class="row">
                 <div class="carousel carousel-slider" data-indicators="true" data-namespace="DIVcarouselcarousel-slider1" style="height: 650px;">
                 
-                    <div class="carousel-item blue-grey white-text active" href="#one!" style="z-index: 0; opacity: 1; display: block; transform: translateX(0px) translateX(0px) translateX(0px) translateZ(0px);">
+                    <div class="carousel-item blue-grey white-text active padding" href="#one!" style="z-index: 0; opacity: 1; display: block; transform: translateX(0px) translateX(0px) translateX(0px) translateZ(0px);">
                         <h2 class="center">We facilitate thinking in a bunch of different ways.</h2>
 
                         <div class="col s12 m4 l7">
@@ -35,7 +35,7 @@ img: umbrella-intro.png
                         <div class="col s12 m4 l5"><img class="responsive-img" src="{{ "/" | relative_url }}assets/images/facilitate-thinking.svg" alt="facilitate thinking"></div>
                     </div>
 
-                    <div class="carousel-item blue-grey white-text" href="#two!" style="transform: translateX(0px) translateX(953.906px) translateZ(0px); z-index: -1; opacity: 1; display: block;">
+                    <div class="carousel-item blue-grey white-text padding" href="#two!" style="transform: translateX(0px) translateX(953.906px) translateZ(0px); z-index: -1; opacity: 1; display: block;">
                         <h2 class="center">In terms of articulating concepts, we're a dab hand. Or hands even.</h2>
 
                         <div class="col s12 m4 l7">
@@ -45,11 +45,11 @@ img: umbrella-intro.png
 
                             <h5>Curating</h5>
 
-                            <p>We're responsible for the venerable <a href="http://badge.news">Badge News</a>, the Badge Wiki, Thought Shrapnel, Freshly Brewed Thoughts, Visual Thinkery and a number of publications on Medium. We're great at pulling related stuff together, or, in high English, curation.</p>
+                            <p>We make the venerable <a href="http://badge.news">Badge News</a>, the Badge Wiki, Thought Shrapnel, Freshly Brewed Thoughts, Visual Thinkery and a number of publications on Medium. We're great at pulling things together, or, in high English, curation.</p>
 
                             <h5>Creating</h5>
 
-                            <p>The We Are Open Co-op is filled to the brim with creativity. We do branding and visuals, we do wireframes and illustrations. We even make jam out of aloe vera. We're creative to our cores, so we make all kinds of things both digitally and in the physical reality.</p>
+                            <p>The We Are Open Co-op is filled with creativity. We do branding and visuals, we do wireframes and illustrations. We make jam out of aloe vera. We're creative, so we make all kinds of things both digitally and in the physical reality.</p>
 
                             <h5>Writing</h5>
 
@@ -59,7 +59,7 @@ img: umbrella-intro.png
                         <div class="col s12 m4 l5"><img class="responsive-img" src="{{ "/" | relative_url }}assets/images/articulate-concepts.svg" alt="articulate concepts"></div>
                     </div>
 
-                    <div class="carousel-item blue-grey white-text" href="#three!" style="transform: translateX(0px) translateX(-1907.81px) translateZ(0px); z-index: -2; opacity: 1; display: block;">
+                    <div class="carousel-item blue-grey white-text padding" href="#three!" style="transform: translateX(0px) translateX(-1907.81px) translateZ(0px); z-index: -2; opacity: 1; display: block;">
                         <h2 class="center">And expertise? Well, we are our members...</h2>
 
                         <div class="col s12 m4 l7">
