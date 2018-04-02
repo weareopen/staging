@@ -4,7 +4,7 @@ title: who we are
 permalink: /who/
 heading: We love our members
 intro-text: Our members are nimble thinkers and tinkerers who can do a whole bunch of stuff. Just ask us. However, just so that <em>we</em> can understand what we do, we've organised our "what" into three main areas.
-img: members.png
+img: community.png
 ---
 
 <div class="row">
