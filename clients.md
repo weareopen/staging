@@ -11,8 +11,8 @@ img: this-production.png
     <div class="col s12 m7 l4">
       <div class="card">
         <div class="card-image">
-          <img src="images/sample-1.jpg">
-          <span class="card-title">Creative Commons</span>
+          <img src="{{ "/" | relative_url }}assets/images/clients/creativecommons-client.png">
+          <!--<span class="card-title">Creative Commons</span>-->
         </div>
         <div class="card-content">
           <p>In the early days of the Creative Commons Certificate program, we met with the team to run a think-a-thon. Over the years, the We Are Open Co-op has done a variety of things with CC. We're huge fans of their work!</p>
