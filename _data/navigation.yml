@@ -6,4 +6,7 @@
   name: what we do
 - link: /staging/who/
   name: who we are
+- link: /staging/contact/
+  name: get in touch
+  highlight: true
 

@@ -4,8 +4,8 @@
     {% assign page_paths = site.header_pages | default: default_paths %}
 
           <ul class="right hide-on-med-and-down">
-           {% for item in site.data.navigation %}
-    <li><a href="{{ item.link }}" {% if item.link == page.url %}class="active"{% endif %}>
+            {% for item in site.data.navigation %}
+    <li><a href="{{ item.link }}" {% if item.link == page.url %}class="active"{% endif %}{% if item.highlight %}class="btn waves-effect waves-light blue"{% endif %}>
       {{ item.name }}
     </a></li>
   {% endfor %}
@@ -13,7 +13,7 @@
 
           <ul id="nav-mobile" class="side-nav">
             {% for item in site.data.navigation %}
-    <li><a href="{{ item.link }}" {% if item.link == page.url %}class="active"{% endif %}>
+    <li><a href="{{ item.link }}" {% if item.link == page.url %}class="active"{% endif %}{% if item.highlight %}class="btn waves-effect waves-light blue"{% endif %}>
       {{ item.name }}
     </a></li>
   {% endfor %}
