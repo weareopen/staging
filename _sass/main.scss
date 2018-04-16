@@ -16,12 +16,13 @@
 	background-image: url(../assets/images/locks-pattern.png);
 	background-repeat: repeat;
 }
-.z-index-1000{
+.z-index{
 	z-index: 1000;
+	position:relative;
 }
 
 .umbrella-card{
-	padding-top: 4rem;
+	padding-top: 2rem;
 	position: relative;
 	top: -3rem;
 	font-size:1.2rem;
