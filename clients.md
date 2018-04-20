@@ -10,8 +10,8 @@ img: this-production.png
 <div class="row">
     <div class="col s12 m7 l4">
       <div class="card">
-        <div class="card-image">
-          <img src="{{ "/" | relative_url }}assets/images/clients/cc-logo-client.svg" height="95%">
+        <div class="card-logo">
+          <img src="{{ "/" | relative_url }}assets/images/clients/cc-logo-client.svg">
           <!--<span class="card-title">Creative Commons</span>-->
         </div>
         <div class="card-content">
@@ -30,7 +30,7 @@ img: this-production.png
     
      <div class="col s12 m7 l4">
       <div class="card">
-        <div class="card-image">
+        <div class="card-logo">
 	      <img src="{{ "/" | relative_url }}assets/images/clients/passbolt-logo.png">
           <!--<span class="card-title">Passbolt</span>-->
         </div>
