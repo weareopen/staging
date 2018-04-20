@@ -23,4 +23,23 @@ img: this-production.png
         </div>
       </div>
     </div>
+    
+     <div class="col s12 m7 l4">
+      <div class="card">
+        <div class="card-image">
+          <img src="{{ "/" | relative_url }}assets/images/clients/passbolt-umbrella.svg">
+          <!--<span class="card-title">Creative Commons</span>-->
+        </div>
+        <div class="card-content">
+          <p>Passbolt is an open source password manager. We ran a think-a-thon, provided them with a long term strategy and worked together with Passbolt for over 6 months. We will work together again too!</p>
+        </div>
+        <div class="card-action">
+	      <a href="https://medium.com/passbolt/announcing-the-passbolt-community-forum-6ea79fbfe843">Passbolt community</a><br/>
+          <a href="https://medium.com/passbolt/help-me-jekyll-1ac075d75d28">Jekyll-based documentation</a><br/>
+        </div>
+      </div>
+    </div>
+    
 </div>
+
+                          
