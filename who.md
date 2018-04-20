@@ -3,7 +3,7 @@ layout: page
 title: who we are
 permalink: /who/
 heading: We love our members
-intro-text: Our members are nimble thinkers and tinkerers who can do a whole bunch of stuff. Just ask us. However, just so that <em>we</em> can understand what we do, we've organised our "what" into three main areas.
+intro-text: We're here to change the world. Working openly is our way of doing that - moving people and organisations from ordinary to extraordinary. We are thinkers and writers, philosophers and makers. We're technologists, philanthropists and community-minded folks. We are open and engaged, get to know us. We're friendly too :) 
 img: innovation-swat-team.png
 ---
 
