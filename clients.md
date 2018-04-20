@@ -11,11 +11,15 @@ img: this-production.png
     <div class="col s12 m7 l4">
       <div class="card">
         <div class="card-image">
-          <img src="{{ "/" | relative_url }}assets/images/clients/creativecommons-client.png">
+          <img src="{{ "/" | relative_url }}assets/images/clients/cc-logo-client.svg" height="95%">
           <!--<span class="card-title">Creative Commons</span>-->
         </div>
         <div class="card-content">
           <p>In the early days of the Creative Commons Certificate program, we met with the team to run a think-a-thon. Over the years, the We Are Open Co-op has done a variety of things with CC. We're huge fans of their work!</p>
+        </div>
+        <div class="card-image">
+          <img src="{{ "/" | relative_url }}assets/images/clients/creativecommons-client.png">
+          <!--<span class="card-title">Creative Commons</span>-->
         </div>
         <div class="card-action">
           <a href="https://blog.weareopen.coop/creative-commons-thinkathon-f82bfbee00">Creative Commons Thinkathon</a><br/>
@@ -27,11 +31,14 @@ img: this-production.png
      <div class="col s12 m7 l4">
       <div class="card">
         <div class="card-image">
-          <img src="{{ "/" | relative_url }}assets/images/clients/passbolt-umbrella.svg">
-          <!--<span class="card-title">Creative Commons</span>-->
+	      <img src="{{ "/" | relative_url }}assets/images/clients/passbolt-logo.png">
+          <!--<span class="card-title">Passbolt</span>-->
         </div>
         <div class="card-content">
           <p>Passbolt is an open source password manager. We ran a think-a-thon, provided them with a long term strategy and worked together with Passbolt for over 6 months. We will work together again too!</p>
+        </div>
+         <div class="card-image">
+	      <img src="{{ "/" | relative_url }}assets/images/clients/passbolt-umbrella.svg">
         </div>
         <div class="card-action">
 	      <a href="https://medium.com/passbolt/announcing-the-passbolt-community-forum-6ea79fbfe843">Passbolt community</a><br/>
