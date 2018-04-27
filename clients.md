@@ -74,7 +74,7 @@ img: this-production.png
           <p>London CLC is an award-winning team of expert teachers, computing and multimedia specialists, trainers, technicians, filmmakers, designers and family learning tutors. We have helped them with a number of things, including strategy, marketing, and their Lambeth Digital Champions project.</p>
         </div>
          <div class="card-image">
-	      <img src="{{ "/" | relative_url }}assets/images/clients/passbolt-umbrella.svg" class="responsive-img">
+	      <img src="{{ "/" | relative_url }}assets/images/clients/londonclc-umbrella.svg" class="responsive-img">
         </div>
         <div class="card-action">
 	      <a href="https://blog.weareopen.coop/the-thinkathon-was-such-a-useful-way-to-frame-and-kick-off-what-we-will-be-developing-at-london-791be491dabb">London CLC thinkathon</a><br/>
