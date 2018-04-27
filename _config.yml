@@ -8,3 +8,5 @@ sass:
 title: "We Are Open Co-op"
 twitter_username: weareopencoop
 baseurl: /staging
+plugins:
+  - jekyll-redirect-from
