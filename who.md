@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Who we are
+title: who we are
 permalink: /who/
 heading: We love our members
 intro-text: We're here to change the world. Working openly is our way of doing that - moving people and organisations from ordinary to extraordinary. We are thinkers and writers, philosophers and makers. We're technologists, philanthropists and community-minded folks. We are open and engaged, get to know us. We're friendly too :) 
@@ -43,17 +43,6 @@ img: innovation-swat-team.png
                     </div>
                 </div>
         </div>
-<<<<<<< HEAD
-=======
-        <div class="card-content">
-	        <h4>Convenor &amp; Connector</h4>
-			<p><a href="http://twitter.com/bevangelist">John</a>, connects people for the common good. He?s devised and run open innovation programmes for a host of household names, helping them to break silos both within and between organisations.</p>
-		</div>
-        <div class="card-action">
-			<a href="http://bevangelist.uk">Learn more.</a>
-		</div>
-      </div>
->>>>>>> ce7846138833d2022e38183cae43c166c5cd59c0
     </div>
 
 <div class="row">
@@ -94,7 +83,6 @@ img: innovation-swat-team.png
                 </div>
         </div>
     </div>
-<<<<<<< HEAD
 
 <div class="row">
         <div class="col s12 m6 l6 card blue lighten-5">
@@ -115,6 +103,3 @@ img: innovation-swat-team.png
                 </div>
         </div>
     </div>
-=======
-</div>
->>>>>>> ce7846138833d2022e38183cae43c166c5cd59c0
