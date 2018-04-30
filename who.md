@@ -1,6 +1,6 @@
 ---
 layout: page
-title: who we are
+title: Who we are
 permalink: /who/
 heading: We love our members
 intro-text: We're here to change the world. Working openly is our way of doing that - moving people and organisations from ordinary to extraordinary. We are thinkers and writers, philosophers and makers. We're technologists, philanthropists and community-minded folks. We are open and engaged, get to know us. We're friendly too :) 
