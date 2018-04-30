@@ -1,6 +1,6 @@
 ---
 layout: page
-title: client stories
+title: Client stories
 permalink: /clients/
 heading: Meet our clients
 intro-text: Our members have worked with the BBC, Mozilla, Greenpeace, Moodle, Creative Commons and tens of other household names. As a co-op, our clients benefit from the multitude of skills and expertise our members possess.
