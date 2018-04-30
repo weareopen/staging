@@ -1,6 +1,6 @@
 ---
 layout: page
-title: contact
+title: Contact
 permalink: /contact/
 heading: Let's have a chat
 intro-text: Drop us a note, tell us how you think we might be able to help you. If necessary, we'll set up a (free) 30 minute chat to check in before writing you a proposal to detail how we think we can help your project or organisation. Use the form below and let us know how we can help!
