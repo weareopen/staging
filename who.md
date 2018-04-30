@@ -31,7 +31,7 @@ img: innovation-swat-team.png
         </div>
         <div class="card-content">
 	        <h4>Convenor &amp; Connector</h4>
-			<p><a href="http://twitter.com/bevangelist">John</a>, from Go Fast, Turn Left, connects people for the common good. He?s devised and run open innovation programmes for a host of household names, helping them to break silos both within and between organisations.</p>
+			<p><a href="http://twitter.com/bevangelist">John</a>, connects people for the common good. He?s devised and run open innovation programmes for a host of household names, helping them to break silos both within and between organisations.</p>
 		</div>
         <div class="card-action">
 			<a href="http://bevangelist.uk">Learn more.</a>
