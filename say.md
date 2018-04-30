@@ -1,6 +1,6 @@
 ---
 layout: page
-title: what we say
+title: What we say
 permalink: /say/
 heading: Let's have a chat
 intro-text: Our members are nimble thinkers and tinkerers who can do a whole bunch of stuff. Just ask us. However, just so that <em>we</em> can understand what we do, we've organised our "what" into three main areas.

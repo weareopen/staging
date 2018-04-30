@@ -1,6 +1,6 @@
 ---
 layout: page
-title: what we do
+title: What we do
 permalink: /what/
 heading: Open our umbrella
 intro-text: Our members are nimble thinkers and tinkerers who can do a whole bunch of stuff. Just ask us. However, just so that <em>we</em> can understand what we do, we've organised our "what" into three main areas.
