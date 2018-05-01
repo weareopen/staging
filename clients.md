@@ -110,7 +110,7 @@ img: this-production.png
           <!--<span class="card-title">southampton</span>-->
         </div>
         <div class="card-content">
-          <p>The University of Southampton has been working with partners on the Portus project to develop techniques that will enhance the ways in which highly complex classical sites can be investigated and recorded, and evaluate the impact of those techniques. We helped them think through the next steps for the project, including a session in Japan with partners in the region.</p>
+          <p>The University of Southampton has been working with partners to develop techniques that will enhance the ways people can interact with heritage sites. We helped them think through the next steps for the project, including a session in Japan with partners in the region.</p>
         </div>
          <div class="card-image">
 	      <img src="{{ "/" | relative_url }}assets/images/clients/portus-umbrella.svg" class="responsive-img" style="width:80%; margin-left:auto; margin-right:auto;" alt="University of Southampton umbrella">

@@ -25,7 +25,7 @@ img: umbrella-intro.png
 	
 	                            <p>How are we going to do this!? What a great question to ask. We'll guide you through answering it, trusting the knowledge in the room.</p>
 	
-	                            <h5>The design-a-thon</h5>
+	                            <h5>The Design Jam</h5>
 	
 	                            <p>We'll take an issue and build a prototype to test with a handful of customers. All in one week. Yep, you heard me right - one week.</p>
                         	</div>
