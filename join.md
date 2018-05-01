@@ -13,13 +13,13 @@ heading: So what’s the deal with We Are Open Co-op?
 		<p class="entry-text">When we work on a project with other Co-op members, we do that business as the Co-op.</p>
 	</div>
 	<div class="col s12 m6 l3">
-		<img src="{{ "/" | relative_url }}assets/images/work-together.png" class="responsive-img right"/>
+		<img src="{{ "/" | relative_url }}assets/images/work-together.png" class="responsive-img right" alt="work together"/>
 	</div>
 </div>
 
 <div class="row">
 	<div class="col s12 m6 l3 offset-l2">
-		<img src="{{ "/" | relative_url }}assets/images/amplify.png" class="responsive-img right"/>
+		<img src="{{ "/" | relative_url }}assets/images/amplify.png" class="responsive-img right" alt="amplify your voice"/>
 	</div>
     <div class="col s12 m6 l6">
     	<h3>Amplified voices</h3>
@@ -37,7 +37,7 @@ heading: So what’s the deal with We Are Open Co-op?
 		<p class="entry-text">We meet together (virtually) at the start of every week and keep each other accountable to what we’ve got going on.</p>
 	</div>
 	<div class="col s12 m6 l3">
-		<img src="{{ "/" | relative_url }}assets/images/community.png" class="responsive-img right"/>
+		<img src="{{ "/" | relative_url }}assets/images/community.png" class="responsive-img right" alt="be part of a community"/>
 	</div>
 </div>
 
