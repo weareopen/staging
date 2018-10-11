@@ -50,15 +50,15 @@
     }
   }
 
-  &.small {
+  &.small, &.small.card-content {
     height: 300px;
   }
 
-  &.medium {
+  &.medium, &.medium.card-content {
     height: 400px;
   }
 
-  &.large {
+  &.large, &.large.card-content {
     height: 500px;
   }
 

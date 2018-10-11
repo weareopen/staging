@@ -1,11 +1,11 @@
-- link: /staging/clients/
-  name: Who we work with
+- link: /about/
+  name: about
+- link: /work/
+  name: work
+- link: /clients/
+  name: clients
 - link: http://blog.weareopen.coop
-  name: What we say
-- link: /staging/what/
-  name: What we do
-- link: /staging/who/
-  name: Who we are
-- link: /staging/contact/
+  name: blog
+- link: /contact/
   name: Get in touch
   highlight: true

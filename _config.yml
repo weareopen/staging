@@ -7,6 +7,6 @@ sass:
   style: compressed
 title: "We Are Open Co-op"
 twitter_username: weareopencoop
-baseurl: /staging
+baseurl: 
 plugins:
   - jekyll-redirect-from

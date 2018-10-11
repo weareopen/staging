@@ -1,8 +1,11 @@
-<!--  Scripts-->                                                                               
+<!--  Scripts-->
 <script src="{{ "js/jquery.min.js" | relative_url }}"></script>
 <script src="{{ "js/materialize.min.js" | relative_url }}"></script>
 <script src="{{ "js/init.js" | relative_url }}"></script>
+<script src="{{ "/_plugins/jquery-match-height/jquery.matchHeight.js" | relative_url }}"></script>
+
 <script>
+/*
 var instance = M.Carousel.init({
     fullWidth: true,
     indicators: true
@@ -14,4 +17,10 @@ var instance = M.Carousel.init({
     fullWidth: true,
     indicators: true
   });
+  */
+  
+$(function() {
+	$('.card').matchHeight();
+});
+
 </script>

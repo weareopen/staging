@@ -1,10 +1,12 @@
 ---
-layout: page
+layout: work-page
 title: Client stories
 permalink: /clients/
-heading: Meet our clients
-intro-text: Our members have worked with the BBC, Mozilla, Greenpeace, Moodle, Creative Commons and tens of other household names. As a co-op, our clients benefit from the multitude of skills and expertise our members possess.
-img: this-production.png
+heading: Experience a Thinkathon
+intro-text: Take a mere sliver of an idea, and ask it questions. Put on different glasses and look at it again. Hire us for a Thinkathon, and we'll jumpstart your project.
+img: thinkathon-idea.png
+button-text: Learn more
+link: /thinkathon/
 
 ---
 <div class="row">
@@ -22,7 +24,7 @@ img: this-production.png
           <!--<span class="card-title">Creative Commons</span>-->
         </div>
         <div class="card-action">
-          <a href="https://blog.weareopen.coop/creative-commons-thinkathon-f82bfbee00">Creative Commons Thinkathon</a><br/>
+          <a href="https://blog.weareopen.coop/creative-commons-thinkathon-f82bfbee00">CC Thinkathon</a><br/>
           <a href="https://blog.weareopen.coop/the-future-of-the-commons-is-an-open-planet-e2ef5095aef">CC Summit participation</a>
         </div>
       </div>
@@ -42,7 +44,7 @@ img: this-production.png
         </div>
         <div class="card-action">
 	      <a href="https://medium.com/passbolt/announcing-the-passbolt-community-forum-6ea79fbfe843">Passbolt community</a><br/>
-          <a href="https://medium.com/passbolt/help-me-jekyll-1ac075d75d28">Jekyll-based documentation</a><br/>
+          <a href="https://medium.com/passbolt/help-me-jekyll-1ac075d75d28">Jekyll-based docs</a><br/>
         </div>
       </div>
     </div>

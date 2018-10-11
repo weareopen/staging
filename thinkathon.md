@@ -1,5 +1,7 @@
 ---
 layout: page
+redirect_from:
+  - /thinkathon.html
 title: Behold the Thinkathon
 permalink: /thinkathon/
 heading: Behold the Thinkathon
@@ -8,7 +10,7 @@ heading: Behold the Thinkathon
 <div class="row">
     <div class="col s12 m6 l6 offset-l2">
     	<h3>We help you think.</h3>
-		<p>Take a mere sliver of an idea, and ask it questions. Put on different glasses and look at it again. Stand in another person’s shoes and see how it looks from there. You’ll be surprised at the clarity that this can produce. The outcomes of a Thinkathon relate to the breadth of experience in the room – and the ability to think openly.</p>
+		<p>Stand in another person’s shoes and see how an idea looks from there. You’ll be surprised at the clarity that this can produce. The outcomes of a Thinkathon relate to the breadth of experience in the room – and the ability to think openly.</p>
 		<p>We work towards finding solutions. We help you think sideways about what you are trying to do – or even why you need to do it. </p>
 	</div>
 	<div class="col s12 m6 l3">
@@ -29,6 +31,6 @@ heading: Behold the Thinkathon
 		<p>We think out loud. We will package up what was captured during the day into actionable next steps.</p>
 		<h3>Our creds</h3>
 		<p>We've run similar participatory events for Greenpeace, Mozilla, Telefonica, Creative Commons, NCS, City & Guilds, Jisc and more. We're practiced creative facilitators, educators, technologists and, most importantly, open advocates.</p>
-		<p><a href="{{ "/" | relative_url }}/contact/" class="btn-large waves-effect waves-light blue">Sound good? Get in touch!</a></p>
+		<p><a href="{{ "/" | relative_url }}contact/" class="btn-large waves-effect waves-light blue">Sound good? Get in touch!</a></p>
 		</div>
 </div>
